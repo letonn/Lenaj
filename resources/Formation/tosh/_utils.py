@@ -1,5 +1,5 @@
 #    ZED - USERBOT
-#    ZelZal - @zzzzl1l
+#    LITHON - @S_1_02
 
 import asyncio
 import os
