@@ -1,10 +1,10 @@
-#   ZED - THON
+#   LITHON - THON
 
 from userbot.Config import Config # Ok - 🖤 
 
 USERID = Config.OWNER_ID
 Name = Config.ALIVE_NAME
-DEFAULTUSER = str(Name) if Name else "ZED THON"
+DEFAULTUSER = str(Name) if Name else "LITHON THON"
 mention = f"[{Name}](tg://user?id={USERID})"
 
 Plugin = "userbot/plugins/{}.py"
@@ -66,12 +66,12 @@ IS = "⫷ لايمكن تحميل - {} بسبب {} ⫸"
 
 #- TOSH is the most beautiful girl in the world -#
 ICSJ = "<ⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧ>"
-StartLoaded = "<ⵧⵧⵧⵧⵧⵧ⫷ - ZED PLUGINS - ⫸ⵧⵧⵧⵧⵧⵧ>"
-ASSISTANT = "<ⵧⵧⵧⵧⵧⵧ⫷ - ZED ASSISTANT - ⫸ⵧⵧⵧⵧⵧⵧ>"
-KIMOTOSHA = "<ⵧⵧⵧⵧⵧⵧⵧⵧ⫷ - ZED TOSHA - ⫸ⵧⵧⵧⵧⵧⵧⵧ>"
-ANIMATIONS = "<ⵧⵧⵧⵧⵧⵧ⫷ - ZED ANIMATIONS - ⫸ⵧⵧⵧⵧⵧ>"
-ADMIN = "<ⵧⵧⵧⵧⵧ⫷ - ZED ADMIN TOOLS - ⫸ⵧⵧⵧⵧⵧ>"
-ASSISTANTPM = "<ⵧⵧⵧⵧⵧ⫷ - ZED ASSISTANT PM - ⫸ⵧⵧⵧⵧⵧ>"
+StartLoaded = "<ⵧⵧⵧⵧⵧⵧ⫷ - LITHON PLUGINS - ⫸ⵧⵧⵧⵧⵧⵧ>"
+ASSISTANT = "<ⵧⵧⵧⵧⵧⵧ⫷ - LITHON ASSISTANT - ⫸ⵧⵧⵧⵧⵧⵧ>"
+KIMOTOSHA = "<ⵧⵧⵧⵧⵧⵧⵧⵧ⫷ - LITHON TOSHA - ⫸ⵧⵧⵧⵧⵧⵧⵧ>"
+ANIMATIONS = "<ⵧⵧⵧⵧⵧⵧ⫷ - LITHON ANIMATIONS - ⫸ⵧⵧⵧⵧⵧ>"
+ADMIN = "<ⵧⵧⵧⵧⵧ⫷ - LITHON ADMIN TOOLS - ⫸ⵧⵧⵧⵧⵧ>"
+ASSISTANTPM = "<ⵧⵧⵧⵧⵧ⫷ - LITHON ASSISTANT PM - ⫸ⵧⵧⵧⵧⵧ>"
 ICSW = "<ⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧⵧ>"
 # --- MESSI IS THE BEST PLAYER IN THE WORLD --- #
 
